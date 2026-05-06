@@ -82,7 +82,7 @@ const links: { title: string; href: string; blurb: string; icon: IconName }[] = 
   },
   {
     title: "YouTube",
-    href: "https://www.youtube.com/playlist?list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM",
+    href: "https://www.youtube.com/@nodeconfeu",
     blurb: "Revisit talks and get the tone of the event.",
     icon: "youtube",
   },
@@ -107,7 +107,7 @@ const footerLinks: { title: string; href: string; icon: IconName }[] = [
   },
   {
     title: "YouTube",
-    href: "https://www.youtube.com/playlist?list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM",
+    href: "https://www.youtube.com/@nodeconfeu",
     icon: "youtube",
   },
 ];
